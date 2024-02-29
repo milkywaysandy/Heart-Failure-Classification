@@ -10,6 +10,6 @@ This dataset is based on the records of heart failure patients who had death eve
 A public dataset from UC Irvine Machine Learning Repository: [Dataset link](https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records).
 
 The dataset was first published with Journal:
-Davide Chicco, Giuseppe Jurman: ["Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone". BMC Medical Informatics and Decision Making 20, 16 (2020).] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6998201/pdf/12911_2020_Article_1023.pdf)
+Davide Chicco, Giuseppe Jurman: ["Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone". BMC Medical Informatics and Decision Making 20, 16 (2020).](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6998201/pdf/12911_2020_Article_1023.pdf).
 
 
